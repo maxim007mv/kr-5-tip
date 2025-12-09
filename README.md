@@ -58,6 +58,12 @@ https://imghost.fun/image/Screenshot-2025-12-09-at-11.14.34.gHr2
 Поиск товара
 https://imghost.fun/image/Screenshot-2025-12-09-at-11.15.11.gHlA
 
+### Главная страница
+![Главная страница](https://imghost.fun/image/Screenshot-2025-12-09-at-11.14.34.gHr2)
+
+### Поиск товара
+![Поиск товара](https://imghost.fun/image/Screenshot-2025-12-09-at-11.15.11.gHlA)
+
 ## Contributing
 
 1. Fork → branch `feature/...`
