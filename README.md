@@ -2,6 +2,9 @@
 
 Node.js Express приложение для CRUD списка покупок с автоопределением категорий. Бэкенд + статический фронтенд [1].
 
+
+Проверка работоспособности - https://kr5-shopping-list-e3cd2636b56e.herokuapp.com/
+
 ## Функции
 
 - CRUD: GET/POST/PUT/DELETE `/purchases`.
