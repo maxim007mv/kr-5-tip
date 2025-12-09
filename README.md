@@ -52,6 +52,11 @@ Dev: `npm run dev` (nodemon).
 - Tools: nodemon, curl
 
 ## Скриншоты
+Главная страница 
+https://imghost.fun/image/Screenshot-2025-12-09-at-11.14.34.gHr2
+
+Поиск товара
+https://imghost.fun/image/Screenshot-2025-12-09-at-11.15.11.gHlA
 
 ## Contributing
 
@@ -62,15 +67,3 @@ Dev: `npm run dev` (nodemon).
 
 MIT.
 
-Sources
-[1] An Empirical Study on README contents for JavaScript Packages http://arxiv.org/pdf/1802.08391.pdf
-[2] Adapting Installation Instructions in Rapidly Evolving Software
-  Ecosystems https://arxiv.org/pdf/2312.03250.pdf
-[3] LARCH: Large Language Model-based Automatic Readme Creation with
-  Heuristics https://arxiv.org/pdf/2308.03099.pdf
-[4] Node Compass: Multilevel Tracing and Debugging of Request Executions in
-  JavaScript-Based Web-Servers http://arxiv.org/pdf/2401.08595.pdf
-[5] A horizontally-scalable multiprocessing platform based on Node.js http://arxiv.org/pdf/1507.02798.pdf
-[6] Transforming Javascript Event-Loop Into a Pipeline https://arxiv.org/pdf/1512.07067.pdf
-[7] RootJS: Node.js Bindings for ROOT 6 http://arxiv.org/pdf/1704.07887.pdf
-[8] Advanced OOP and new syntax patterns for Javascript http://arxiv.org/pdf/2411.08833.pdf 
